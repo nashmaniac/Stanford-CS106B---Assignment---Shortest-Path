@@ -58,9 +58,9 @@ public:
 	bool isEmpty();
 
 	/*
-	* Function : int dequeueMax()
+	* Function : int dequeueMin()
 	* -----------------------------------------------------
-	* Returns the largest value present in the queue.
+	* Returns the smallest value present in the queue.
 	*/
 	ElemType dequeueMin();
 private:

@@ -4,7 +4,7 @@ Solution to the final CS106B assignment (Path finder) http://see.stanford.edu/se
 - **Language** : C++
 - **IDE**      : Microsoft Visual Studio 2005 ( :-P)
 
-*An old gif of final version *
+*An old gif of final version*
 
 ![Imgur](http://i.imgur.com/GiUJ831.gif)
 

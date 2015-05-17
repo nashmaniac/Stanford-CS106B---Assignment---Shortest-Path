@@ -1,5 +1,5 @@
 # Stanford-CS106B---Assignment---Shortest-Path
-Solution to the final CS106B assignment (Path finder) http://see.stanford.edu/see/materials/icspacs106b/assignments.aspx, includes implementation of **Vector**, **Priority Queue**, and Implements **Dijkstra's shortest path algorithm**.
+Solution to the final CS106B assignment (Path finder) http://see.stanford.edu/see/materials/icspacs106b/assignments.aspx, includes implementation of **Vector**, **Priority Queue**, and Implements **Dijkstra's shortest path algorithm** and **Kruskal's minimal spanning tree algorithm**.
 . 
 - **Language** : C++
 - **IDE**      : Microsoft Visual Studio 2005 ( :-P)
